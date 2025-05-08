@@ -1,4 +1,4 @@
-# Bebob-Task-Tracker
+# Bebob-Task-Tracker roadmap project https://roadmap.sh/projects/task-tracker
 
 TaskTracker CLI
 
@@ -163,6 +163,3 @@ Task properties:
     createdAt: The date and time when the task was created.
 
     updatedAt: The date and time when the task was last updated.
-
-Project URL
-    https://roadmap.sh/projects/task-tracker
