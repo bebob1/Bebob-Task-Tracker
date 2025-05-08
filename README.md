@@ -68,7 +68,7 @@ Expected Output:
 
 4. Mark a task as in progress
 
-    To mark a task as "in progress," use the mark-in-progress command followed by the task ID.
+To mark a task as "in progress," use the mark-in-progress command followed by the task ID.
 
     node taskTracker.js mark-in-progress <id>
 
