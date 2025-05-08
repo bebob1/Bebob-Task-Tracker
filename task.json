@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "description": "Pureba Task 1",
+    "status": "done",
+    "createdAt": "Thu May 08 2025 15:50:14 GMT-0500 (hora estándar de Colombia)",
+    "updatedAt": "2025-05-08T20:53:51.314Z",
+    "updateTask": "Thu May 08 2025 15:52:01 GMT-0500 (hora estándar de Colombia)"
+  },
+  {
+    "id": 2,
+    "description": "Pureba task 2",
+    "status": "todo",
+    "createdAt": "Thu May 08 2025 15:55:06 GMT-0500 (hora estándar de Colombia)",
+    "updatedAt": "Thu May 08 2025 15:55:06 GMT-0500 (hora estándar de Colombia)"
+  }
+]
